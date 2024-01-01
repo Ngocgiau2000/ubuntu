@@ -1,6 +1,7 @@
 cd
 apt install php
 pkg install git -y
+apt install git -y
 git clone  https://github.com/Ngocgiau2000/key.git
 cd key
 php keyvip.php
